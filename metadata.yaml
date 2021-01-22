@@ -1,11 +1,16 @@
 _repo: Pekka-Sallinen-Kertomus-1808-9-v-sodasta_64259
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nordlund, Kustavi
     gutenberg_agent_id: '52825'
     url: http://www.gutenberg.org/2009/agents/52825
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64259#Pekka-Sallinen-Kertomus-1808-9-v-sodasta
 gutenberg_issued: '2021-01-11'
 gutenberg_type: Text
 identifiers:
